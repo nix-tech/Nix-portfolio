@@ -81,7 +81,7 @@ export default function Hero() {
             <a href="#projects" className="bg-gradient-to-r from-violet-600 to-fuchsia-600 px-6 py-3 rounded-xl text-white font-semibold shadow-[0_0_15px_rgba(124,77,255,0.4)] hover:shadow-[0_0_25px_rgba(124,77,255,0.6)] hover:scale-105 hover:-translate-y-1 transition-all duration-300 inline-block text-center border border-white/10">
               {t.hero.viewWork}
             </a>
-            <a href="/CV_Ing_Nix.pdf" download="CV_Ing_Nix.pdf" className="glass px-6 py-3 rounded-xl hover:bg-foreground/5 transition-colors inline-block text-center text-foreground">
+            <a href="/CV_Nixnither_Saint-val.pdf" download="CV_Nixnither_Saint-val.pdf" className="glass px-6 py-3 rounded-xl hover:bg-foreground/5 transition-colors inline-block text-center text-foreground">
               {t.hero.downloadCV}
             </a>
           </div>
